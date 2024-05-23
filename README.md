@@ -1,9 +1,7 @@
-<h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" alt="Fox Emoji" width="50"/> Hola, mi nombre es Deiby 👋</h1>
-
-### Full-stack iOS & Android
+<h1><img src="./assets/images/fox.png" alt="Fox Emoji" width="50"/> Hola, mi nombre es Deiby 👋</h1>
 
 <div align="center">
-  <img height="" src="https://raw.githubusercontent.com/deibydevs/deibydevs/24dda1b1147815645447d2b6733cc2074f4014ce/assets/images/code_image.svg"  />
+  <img height="" src="./assets/images/code_image.svg"  />
 </div>
 
 [![Discord](https://img.shields.io/discord/952339282989834331?style=social&label=Discord&logo=discord)](https://deibydevs.com/discord)
@@ -22,7 +20,7 @@ Soy una persona apasionada por la tecnología y siempre estoy buscando las últi
 ###
 
 <a href="mailto:deiby.devs@gmail.com">
-<img align="left" height="360" src="https://github.com/deibydevs/deibydevs/blob/main/assets/images/gmail_url.png?raw=true"  />
+<img align="left" height="360" src="./assets/images/gmail_url.png"  />
 </a>
 
 
