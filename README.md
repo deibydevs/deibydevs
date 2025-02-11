@@ -11,7 +11,9 @@
  <img src="https://komarev.com/ghpvc/?username=deibydevs&style=social&color=brightgreen">
 
 
-Soy una persona apasionada por la tecnología y siempre estoy buscando las últimas innovaciones. Me encanta cómo la tecnología puede cambiar nuestras vidas y disfruto aprendiendo y explorando todo lo nuevo que aparece en este campo. También me gustan mucho los videojuegos. Me divierte adentrarme en distintos mundos virtuales, disfrutando de las historias y los desafíos que presentan. Para mí, los videojuegos son más que entretenimiento; son una manera de conectar con otros y mejorar mis habilidades estratégicas y de resolución de problemas.
+Me apasiona la tecnología. Siempre estoy al tanto de las últimas novedades y me encanta descubrir cómo puede cambiar nuestras vidas. Me gusta aprender y explorar todo lo nuevo que va saliendo en este mundo.
+
+También soy fan de los videojuegos. Para mí, no son solo entretenimiento; son una forma de conectar con otros y de mejorar mis habilidades, como pensar estratégicamente o resolver problemas.
 
 >  ❤️[GitHub](https://stars.github.com/profiles/deibydevs/)
 
